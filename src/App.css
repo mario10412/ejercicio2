@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.botones{
+background-color: yellow;
+margin: 10px;
+width: 100px;
+height: 50px;
+border-radius: 5px;
+font-size: 18px;
+font-style: italic;
+}
+
+.barra{
+  width: 80%;
+  height: 10px;
+  border-radius: 5px;
+  background-color: black;
+}
